@@ -7,6 +7,6 @@
 ● What will be predicted score if a student studies for 9.25 hrs/ day? <br>
 ● Sample Solution : https://bit.ly/2HxiGGJ <br>
 ● Task submission: <br>
-    1. Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube <br>
-    2. Share links of code (GitHub) and video (YouTube) as a post on YOUR LinkedIn profile, not TSF Network. <br>
-    3. Submit the LinkedIn link in Task Submission Form when shared. <br>
+&nbsp; &nbsp; &nbsp; 1. Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube <br>
+&nbsp; &nbsp; &nbsp; 2. Share links of code (GitHub) and video (YouTube) as a post on YOUR LinkedIn profile, not TSF Network. <br>
+&nbsp; &nbsp; &nbsp; 3. Submit the LinkedIn link in Task Submission Form when shared. <br>
